@@ -2,7 +2,7 @@
 
 ## Dashboard Snapshot
 
-![Dashboard Snapshot]()
+![Dashboard Snapshot](https://github.com/krushalipatel/Airbnb-NYC-2024-/blob/main/Dashboard%20snapshot.png)
 
 This repository contains data and a Tableau dashboard for analyzing Airbnb listings in New York City for the year 2024.
 
