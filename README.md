@@ -41,7 +41,7 @@ Airbnb-NYC-2024/
 
 ## 📷 Snapshot
 
-![Dashboard Preview](Dashboard%20snapshot.png)
+![Dashboard Preview](dashboard_overview.png)
 
 ## 📬 Contact
 
