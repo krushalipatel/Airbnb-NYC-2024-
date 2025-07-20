@@ -4,8 +4,6 @@ Welcome to my Tableau data visualization project, which explores Airbnb listings
 
 🔗 **[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/krushali.patel6325/viz/AirbnbNYC2024-KrushaliPatel/Dashboard1)**
 
----
-
 ## 📌 Project Goals
 
 - Analyze Airbnb listing trends across NYC neighborhoods
@@ -13,8 +11,6 @@ Welcome to my Tableau data visualization project, which explores Airbnb listings
 - Identify seasonal availability patterns
 - Compare boroughs and neighborhoods using key metrics
 - Present findings through an interactive Tableau dashboard
-
----
 
 ## 📊 Dashboard Features
 
@@ -24,8 +20,6 @@ Welcome to my Tableau data visualization project, which explores Airbnb listings
 - 🌟 **Review Metrics**: Average reviews per month by neighborhood group  
 - 🏘️ **Neighborhood Comparison**: Metrics like average price, listing density, and ratings
 
----
-
 ## 📁 Project Structure
 
 Airbnb-NYC-2024/
@@ -34,15 +28,10 @@ Airbnb-NYC-2024/
 ├── Dashboard snapshot.png # Screenshot of the dashboard
 └── README.md # Project documentation
 
-
----
-
 ## 🧰 Tools Used
 
 - Tableau Public – data visualization
 - GitHub – version control and hosting
-
----
 
 ## 🗃️ Dataset
 
@@ -50,18 +39,12 @@ Airbnb-NYC-2024/
 - Format: CSV (~50,000 rows, 16 columns)
 - Sample columns: `price`, `room_type`, `neighbourhood_group`, `reviews_per_month`, `availability_365`
 
----
-
 ## 📷 Snapshot
 
 ![Dashboard Preview](Dashboard%20snapshot.png)
-
----
 
 ## 📬 Contact
 
 **Krushali Patel**  
 🔗 [LinkedIn](https://www.linkedin.com/in/krushali-patel)  
-📧 Email: *(add if you'd like)*
-
----
+📧 Email: *krushalisohilpatel@gmail.com*
